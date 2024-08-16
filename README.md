@@ -1,5 +1,4 @@
 ### Prazer me chamo Luiz ✋
-#### Estudante do curso de ADS💻 e apaixonado por tecnologia e suas possibilidades👨‍💻.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo-carvalho-gon%C3%A7alves-1636a8216/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz_pc/)
 
